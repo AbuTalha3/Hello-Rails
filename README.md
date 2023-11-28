@@ -22,3 +22,6 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+* ![image](https://github.com/AbuTalha3/Hello-Rails/assets/127955219/fb948fe2-14f4-4947-8e52-bad542944687)
+
